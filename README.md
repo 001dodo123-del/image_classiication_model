@@ -2,9 +2,7 @@
 
 This is a simple image recognition app built using FastAPI and Streamlit. It allows users to upload an image, perform object detection using a pre-trained model, and visualize the detection results with bounding boxes.
 
-## Demo
 
-Check out the [demo video](https://www.loom.com/share/3850c640639f4344b076fa457b7052b2?sid=8ad0bb29-5fbc-45cb-bdd1-e3e3becba627) to see the app in action.
 
 
 ## Requirements
