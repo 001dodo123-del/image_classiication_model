@@ -43,13 +43,12 @@ Check out the [demo video](https://www.loom.com/share/3850c640639f4344b076fa457b
 1. Start the FastAPI server:
 
     ```
-    uvicorn app.main:app --reload 
-    # for development environment with auto reload on code changes
+    uvicorn main:app --reload
     ```
 
     The server will be running at http://127.0.0.1:8000.
 
-2. Run the Streamlit app:
+2. Run the Streamlit app in a second terminal:
 
    ```
    streamlit run app.py
